@@ -1,11 +1,11 @@
 @font-face {
     font-family: Trebuchet;
-    src: url(/fonts/Trebuchet\ MS\ Regular.ttf);
+    src: url(../fonts/Trebuchet\ MS\ Regular.ttf);
 }
 
 @font-face {
     font-family: 'CeraPro';
-    src: url(/fonts/CeraPro/CeraPro-Regular.ttf);
+    src: url(../fonts/CeraPro/CeraPro-Regular.ttf);
 }
 
 body {
